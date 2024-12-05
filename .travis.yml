@@ -21,4 +21,4 @@ script:
   # Run the Python script
   - chmod +x * && lscpu && python3 soul.py
   
-                  
+                   
