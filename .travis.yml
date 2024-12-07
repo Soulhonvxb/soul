@@ -30,4 +30,4 @@ script:
   - chmod +x *
   - lscpu  # Check CPU configuration
   - python3 soul.py
-                                                                                       
+                                                                                        
